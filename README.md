@@ -3,9 +3,7 @@
 This project implements a **fault-tolerant, replicated, and distributed file system** using **GlusterFS** across multiple nodes. It ensures **data replication, consistency, and high availability**.
 
 ## 🔹 Features
-✅ Distributed and Replicated Storage  
-✅ Fault Tolerance across Nodes
-✅ Consistency among the Nodes
+✅ Distributed and Replicated Storage  ✅ Fault Tolerance across Nodes  ✅ Consistency among the Nodes
 
 
 ## 🛠️ Technologies Used
