@@ -12,7 +12,7 @@ This project implements a **fault-tolerant, replicated, and distributed file sys
 - **Python/Bash** for automation scripts  
 
 ## 📽️ Demo Video
-[Click here to watch the working demo](https://youtu.be/your-video-link)
+[Click here to watch the working demo](https://youtu.be/kOYFU-wIYVE?feature=shared)
 
 ## 📄 Research Report
 - Read the full research on **fault-tolerant distributed storage** in [reports/research.pdf](reports/research.pdf)
